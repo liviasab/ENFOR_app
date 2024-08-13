@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "gluestack-ui-scripts": "^0.1.13"
+  },
+  "devDependencies": {
+    "react-native-svg-transformer": "^1.5.0"
+  }
+}
