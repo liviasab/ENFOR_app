@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723893459026",
+    "project_id": "enfor-f8da5",
+    "storage_bucket": "enfor-f8da5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723893459026:android:3e1245569833b4929be78b",
+        "android_client_info": {
+          "package_name": "com.ifpe.enfor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723893459026-n6ej6qvjmmghpb829k8u7f9jeurf594p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Y0Vcc-rQNM-iDOHciYGzLARcorQBgxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723893459026-n6ej6qvjmmghpb829k8u7f9jeurf594p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
